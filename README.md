@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ibrahem-eqal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ibrahem-eqal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahem-eqal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahem-eqal" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100077305497107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077305497107" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahem._saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahem._saleh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ibrahem.saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ibrahem.saleh" height="30" width="40" /></a>
