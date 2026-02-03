@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Software Engineer focused on building scalable and user-centered web applications.  
 Strong foundation in algorithms, problem solving, and modern full-stack development.
@@ -14,10 +14,10 @@ I enjoy turning complex problems into clean, efficient solutions and collaborati
 
 ##  Contact
 
-📧 s12220517@stu.najah.edu  
-📞 +972 594084898  
-🔗 [LinkedIn](https://linkedin.com/in/Ibrahem-Eqal)  
-💻 [GitHub](https://github.com/IbrahemEqal)
+s12220517@stu.najah.edu  
+ +972 594084898  
+ [LinkedIn](https://linkedin.com/in/Ibrahem-Eqal)  
+ [GitHub](https://github.com/IbrahemEqal)
 
 ---
 
