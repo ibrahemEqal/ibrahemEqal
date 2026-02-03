@@ -1,33 +1,127 @@
 <h1 align="center">Hi 👋, I'm Ibrahem Eqal</h1>
-<h3 align="center">A Full Stack & SoftWare Developer from Palestine</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahemeqal&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahemeqal" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahemeqal" alt="ibrahemeqal" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Wep2 project**
+Software Engineer focused on building scalable and user-centered web applications.  
+Strong foundation in algorithms, problem solving, and modern full-stack development.
 
-- 🌱 I’m currently learning **artificial intelligence**
+I enjoy turning complex problems into clean, efficient solutions and collaborating in team environments to ship real products.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ibrahemEqal](https://github.com/ibrahemEqal)
+---
 
-- 💬 Ask me about **React**
+##  Contact
 
-- 📫 How to reach me **ibrahem452452@gmail.com**
+📧 s12220517@stu.najah.edu  
+📞 +972 594084898  
+🔗 [LinkedIn](https://linkedin.com/in/Ibrahem-Eqal)  
+💻 [GitHub](https://github.com/IbrahemEqal)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ibrahem-eqal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahem-eqal" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077305497107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077305497107" height="30" width="40" /></a>
-<a href="https://instagram.com/ibrahem._saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahem._saleh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ibrahem.saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ibrahem.saleh" height="30" width="40" /></a>
+---
+
+##  Experience
+
+### Full-Stack Trainee — GHADEER Academy  
+**Feb 2026**
+- Solved advanced algorithmic problems on Codeforces (Data Structures, Greedy, DP)
+- Participated in team-based technical discussions and collaborative tasks
+- Strengthened analytical and problem-solving skills
+
+---
+
+## 🌟 Selected Projects
+
+###  Clinic Management System  
+**React | Laravel | PHP | Supabase | Vite**  
+*(Nov 2024 – May 2025)*  
+- Built a full web-based clinic system for appointment and reservation management  
+- Helped clinics reduce scheduling conflicts and improve workflow efficiency  
+- Designed responsive and user-friendly UI for patients and staff
+
+---
+
+###  Edujoy — Educational Platform (Najah TEDI Expo)  
+**Angular | PHP | JavaScript | TypeScript**  
+- Learning platform for Arabic speakers  
+- Supports reading, writing, and math via videos and quizzes  
+- Collaborated in a 4-member team to develop core features
+
+---
+
+###  NASA Space Apps Challenge 2025  
+**HTML | CSS | JavaScript**  
+*(Sep 2025)*  
+- Contributed AI-driven ideas for astronaut and plant health monitoring  
+- Worked in a competitive, innovation-focused environment
+
+---
+
+### CNC Workshop Website  
+**React**  
+- Developed product catalog and ordering system  
+- Implemented pricing display and customer inquiry features
+
+---
+
+### Travel Booking Web App  
+**React** *(Mar 2025)*  
+- Built dynamic and reusable UI components  
+- Responsive interface for destinations and travel offers
+
+---
+
+##  Tech Stack
+
+### Languages
+C++ • Java • JavaScript • PHP
+
+### Frontend
+React • HTML • CSS • Angular
+
+### Backend
+Laravel • PHP
+
+### Databases
+MySQL • MongoDB • Supabase
+
+### Tools
+GitHub • Jira • Slack • Figma
+
+### Core Concepts
+OOP • Design Patterns • Software Design Principles • Problem Solving
+
+---
+
+##  Education
+
+**An-Najah National University**  
+*Computer Science Apprenticeship (CAP)*  
+Focus: Software Engineering  
+(2022 – 2027)
+
+Relevant Coursework:
+- Data Structures  
+- Algorithms  
+- Databases  
+- Advanced Software Engineering
+
+---
+
+##  Certifications
+
+- NASA Space Apps Challenge — Participation (2025)
+- IEEE Problem Solving Competition — Certificate
+- NCPC Problem Solving Competition — Participation
+- Najah TEDI Expo — Participation
+- Prompt Engineering Certificate — INNVP
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahemEqal&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahemEqal&layout=compact" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemeqal&show_icons=true&locale=en&layout=compact" alt="ibrahemeqal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahemeqal&show_icons=true&locale=en" alt="ibrahemeqal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahemeqal&" alt="ibrahemeqal" /></p>
