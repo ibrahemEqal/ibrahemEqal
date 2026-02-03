@@ -16,7 +16,7 @@ I enjoy turning complex problems into clean, efficient solutions and collaborati
 
 s12220517@stu.najah.edu  
  +972 594084898  
- [LinkedIn](www.linkedin.com/in/ibrahem-eqal-1a323a380)  
+ [LinkedIn](Linkedin.com/in/Ibrahem-Eqal)  
  [GitHub](https://github.com/IbrahemEqal)
 
 ---
